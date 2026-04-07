@@ -48,6 +48,16 @@ StudyNanba is an AI-powered platform that provides personalized recommendations 
 
 ---
 
+## 🔄 Workflow
+1. User inputs details  
+2. System processes eligibility  
+3. AI recommends scholarships  
+4. Results displayed
+
+## 🧠 AI Logic
+Currently uses rule-based filtering and dataset mapping.
+Future upgrade includes ML-based recommendation system.
+
 ## ▶️ How to Run the Project
 
 ```bash
@@ -79,3 +89,4 @@ GitHub: https://github.com/Bharathwajpm
 Email: bharath129116@gmail.com
 
 ⭐ Building real-world AI solutions to solve real problems
+c
