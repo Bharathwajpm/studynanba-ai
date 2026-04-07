@@ -32,19 +32,19 @@ StudyNanba is an AI-powered platform that provides personalized recommendations 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](images/home_page.png)
+<img src="images/Home_Page.png" width="700"/>
 
 ### 📊 Dashboard
-![Dashboard](images/dashboard.png)
+<img src="images/Dashboard.png" width="700"/>
 
 ### 🎓 Scholarship Portal
-![Scholarship](images/scholarship_portal.png)
+<img src="images/Scholarship_Portal.png" width="700"/>
 
 ### 📥 Input Form
-![Input](images/input_scholar.png)
+<img src="images/Input_Scholar.png" width="700"/>
 
 ### 📤 Output Results
-![Output](images/output_scholar.png)
+<img src="images/Output_Scholar.png" width="700"/>
 
 ---
 
