@@ -1,6 +1,9 @@
 # 🎓 StudyNanba – AI-Powered Scholarship & Loan Recommendation System
 
 ---
+## 🌐 Live Demo
+[🚀 Click here to view project](https://studynanba-ai.vercel.app)
+
 
 ## 🚀 Problem Statement
 In India, millions of students face difficulty in finding suitable scholarships, government schemes, and education loans due to scattered information and lack of personalized guidance. This leads to missed opportunities and confusion in decision-making.
